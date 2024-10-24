@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... coding.
 - 📫 How to reach me ... rullzhtcx@gmail.com
 - 😄 Pronouns: ... Andrei
-- ⚡ Fun fact: ... I still work in a serigraphy.
+- ⚡ Fun fact: ... I'm studying coding right now.
 
 <!---
 rullzhtcx/rullzhtcx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
